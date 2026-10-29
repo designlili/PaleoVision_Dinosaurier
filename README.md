@@ -72,21 +72,22 @@ Die Ergebnisse zeigen, dass mein Modell viele hochwertige Fossilfunde erkennt, g
 
 
 
+
 ## 📊 Einblicke in mein Power-BI-Dashboard
 
-![Dashboardseite 1](Dashboard_Screenshots/001.png)
+![Dashboardseite 1](001.png)
 
-![Dashboardseite 2](Dashboard_Screenshots/002.png)
+![Dashboardseite 2](002.png)
 
-![Dashboardseite 3](Dashboard_Screenshots/003.png)
+![Dashboardseite 3](003.png)
 
-![Dashboardseite 4](Dashboard_Screenshots/004.png)
+![Dashboardseite 4](004.png)
 
-![Dashboardseite 5](Dashboard_Screenshots/005.png)
+![Dashboardseite 5](005.png)
 
-![Dashboardseite 6](Dashboard_Screenshots/006.png)
+![Dashboardseite 6](006.png)
 
-![Dashboardseite 7](Dashboard_Screenshots/007.png)
+![Dashboardseite 7](007.png)
 
 
 
