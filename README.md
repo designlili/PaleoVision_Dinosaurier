@@ -71,28 +71,23 @@ Die Ergebnisse zeigen, dass mein Modell viele hochwertige Fossilfunde erkennt, g
 **Wichtig:** Das Modell bewertet die Erhaltungsqualität anhand historischer Daten. Es garantiert keine zukünftigen Fossilfunde.
 
 
+
 ## 📊 Einblicke in mein Power-BI-Dashboard
 
-### Dashboardseite 1
-![Dashboard 1](Dashboard_Screenshots/001.png)
+![Dashboardseite 1](Dashboard_Screenshots/001.png)
 
-### Dashboardseite 2
-![Dashboard 2](Dashboard_Screenshots/002.png)
+![Dashboardseite 2](Dashboard_Screenshots/002.png)
 
-### Dashboardseite 3
-![Dashboard 3](Dashboard_Screenshots/003.png)
+![Dashboardseite 3](Dashboard_Screenshots/003.png)
 
-### Dashboardseite 4
-![Dashboard 4](Dashboard_Screenshots/004.png)
+![Dashboardseite 4](Dashboard_Screenshots/004.png)
 
-### Dashboardseite 5
-![Dashboard 5](Dashboard_Screenshots/005.png)
+![Dashboardseite 5](Dashboard_Screenshots/005.png)
 
-### Dashboardseite 6
-![Dashboard 6](Dashboard_Screenshots/006.png)
+![Dashboardseite 6](Dashboard_Screenshots/006.png)
 
-### Dashboardseite 7
-![Dashboard 7](Dashboard_Screenshots/007.png)
+![Dashboardseite 7](Dashboard_Screenshots/007.png)
+
 
 
 ## 📈 Power-BI-Dashboard
